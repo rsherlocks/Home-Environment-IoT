@@ -27,10 +27,10 @@ String dayStamp;
 String timeStamp;
 
 // Set these to run example.
-#define FIREBASE_HOST "smartproject-3b838.firebaseio.com"
-#define FIREBASE_AUTH "ePYj1KAEEsgTevUgz63xGN0obNSY2clyCd8nDv77"
-#define WIFI_SSID "AndroidShaper"
-#define WIFI_PASSWORD "b@ngl@desh54321"
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 String myString;
 String myString1;
 String myString2;

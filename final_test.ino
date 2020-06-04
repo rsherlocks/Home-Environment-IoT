@@ -1,8 +1,6 @@
 #include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
-#include "DHT.h"
-#include <NTPClient.h>
-#include <Wire.h> 
+
 
 //#include <ESP8266WiFi.h>
 //#include <WiFi.h> // for WiFi shield
